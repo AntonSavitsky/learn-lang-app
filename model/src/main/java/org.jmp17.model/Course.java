@@ -15,6 +15,12 @@ public class Course {
         this.topics = topics;
     }
 
+    public Course(Integer id, String name, List<Topic> topics) {
+        this.id = id;
+        this.name = name;
+        this.topics = topics;
+    }
+
     public Integer getId() {
         return id;
     }

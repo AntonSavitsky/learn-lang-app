@@ -1,1 +1,2 @@
-/home/antonsavitsky/development/learn-lang-app/dao/src/main/java/org.jmp17.dao/api/LangCourseDao.java
+/home/antonsavitsky/development/learn-lang-app/dao/src/main/java/org.jmp17.dao/impl/LangCourseMapDaoImpl.java
+/home/antonsavitsky/development/learn-lang-app/dao/src/main/java/org.jmp17.dao/api/CourseDao.java

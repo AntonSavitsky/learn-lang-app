@@ -1,1 +1,2 @@
-org/jmp17/dao/api/LangCourseDao.class
+org/jmp17/dao/impl/LangCourseMapDaoImpl.class
+org/jmp17/dao/api/CourseDao.class
